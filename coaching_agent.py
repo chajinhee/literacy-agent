@@ -4,16 +4,20 @@
 학생 답변을 3축 루브릭(내용 이해/표현력/맞춤법)으로 평가한다.
 
 사전 준비:
-  pip install --upgrade google-genai
+  pip install --upgrade google-genai python-dotenv
 """
 
+import os
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types as genai_types
 
+load_dotenv()
+
 # ── 설정값: translation_agent.py와 동일하게 맞추기 ──────────────
-PROJECT_ID = "REDACTED_PROJECT_ID"
-LOCATION = "us-central1"
-GEMINI_MODEL = "gemini-2.5-flash"
+PROJECT_ID = os.environ["PROJECT_ID"]
+LOCATION = os.environ["GEMINI_LOCATION"]
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
 # ──────────────────────────────────────────────────────────────
 
 STEP_ORDER = ["예측", "명료화", "질문", "요약", "완료"]

@@ -10,6 +10,8 @@ Cloud Run은 인스턴스가 여러 개 뜨거나 재시작될 수 있어 메모
 운영 환경에서 안전하지 않습니다. MVP 로컬 테스트 통과 후,
 Firestore로 옮기는 작업이 반드시 필요합니다 (SECTION 06 아키텍처 참고).
 """
+from dotenv import load_dotenv
+load_dotenv()
 
 import uuid
 from fastapi import FastAPI, HTTPException

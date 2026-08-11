@@ -7,20 +7,23 @@
   gcloud auth application-default login   (Cloud Shell이면 보통 이미 인증됨)
 """
 
+import os
+from dotenv import load_dotenv
 from google import genai
 from google.genai import types as genai_types
 from vertexai import rag
 import vertexai
 
-# ── 설정값: 실제 프로젝트 값으로 교체 ──────────────────────────────
-PROJECT_ID = "REDACTED_PROJECT_ID"   # gcloud 프롬프트에 보이던 프로젝트 ID
-LOCATION = "asia-northeast3"                # 코퍼스가 생성된 실제 리전으로 교체
-CORPUS_NAME = (
-    f"projects/REDACTED_PROJECT_ID/locations/asia-northeast3/ragCorpora/REDACTED_CORPUS_ID"
-)
-GEMINI_MODEL = "gemini-2.5-flash"
-# ──────────────────────────────────────────────────────────────
+load_dotenv()
 
+# ── 설정값 ──────────────────────────────────────────────────
+PROJECT_ID = os.environ["PROJECT_ID"]
+LOCATION = os.environ["RAG_LOCATION"]
+CORPUS_NAME = (
+    f"projects/{PROJECT_ID}/locations/{LOCATION}/ragCorpora/{os.environ['RAG_CORPUS_ID']}"
+)
+GEMINI_MODEL = os.environ.get("GEMINI_MODEL", "gemini-2.5-flash")
+# ──────────────────────────────────────────────────────────────
 
 def get_rag_context(topic: str, top_k: int = 5) -> list[dict]:
     """RAG 코퍼스에서 주제 관련 원문 청크를 검색해 반환한다."""
