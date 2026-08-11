@@ -5,10 +5,9 @@
 🔗 **배포 링크**: https://literacy-agent-backend-1036470066046.us-central1.run.app/
 📂 **API 문서**: [배포 URL]/docs (Swagger UI)
 
-<!--
-스크린샷/GIF를 여기에 추가하세요. 예:
+
 ![서비스 화면](./docs/screenshot.png)
--->
+
 
 ---
 
