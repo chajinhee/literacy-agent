@@ -6,7 +6,9 @@
 📂 **API 문서**: [배포 URL]/docs (Swagger UI)
 
 
-![서비스 화면](./docs/screenshot.png)
+![서비스 화면 1](./docs/img1.png)
+
+![서비스 화면 2](./docs/img2.png)
 
 
 ---
