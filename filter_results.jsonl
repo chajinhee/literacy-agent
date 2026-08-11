@@ -1,0 +1,49 @@
+{"appropriate": false, "track": null, "reason": "내용 중 '의식적인 남성성 거세'와 같은 성인 대상의 비유적 표현과 중년의 위기, 노화에 대한 두려움 등 초등학생에게 부적합한 추상적이고 복잡한 주제들이 포함되어 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_1.txt"}
+{"appropriate": true, "track": "고학년", "reason": "내용 자체는 부적합하지 않으나, 어휘와 성인 관계의 미묘한 감정선 및 복잡한 문장 구조가 초등 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_10.txt"}
+{"appropriate": true, "track": "고학년", "reason": "작가로서의 고민, 고독감, 현실과 미디어의 괴리감 등 다소 추상적인 주제와 어휘들이 초등 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_11.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 핏자국이 묻은 로드킬의 상세한 묘사와 대규모 재난(다리 붕괴, 백화점 붕괴)에 대한 언급이 포함되어 있어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_12.txt"}
+{"appropriate": false, "track": null, "reason": "임신과 알코올 중독자 부모에 대한 언급 등 초등학생이 이해하기 어려운 성숙한 주제를 포함하고 있으며, 문학적이고 추상적인 표현이 많아 초등학생의 독서 수준에 적합하지 않습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_13.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력, 선정성 등 부적절한 내용은 없으나, 추상적인 묘사와 성찰적인 문체가 초등 저학년에게는 다소 어려울 수 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_14.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력, 선정성 등 부적절한 내용은 없으나, 일부 어휘(예: taunt, humiliate, dead-beat, empty their bowels, tacky, tasteless)와 사회적 상황에 대한 섬세한 묘사가 초등 저학년에게는 다소 어려울 수 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_15.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력적이거나 부적절한 내용은 없으나, 일부 어휘와 문장 구조가 저학년 학생들이 이해하기에는 다소 어려울 수 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_16.txt"}
+{"appropriate": true, "track": "고학년", "reason": "성인들의 관계, 직업과 육아 선택, 그리고 가족 역학 관계에 대한 미묘한 주제들이 포함되어 고학년 초등학생에게 더 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_17.txt"}
+{"appropriate": true, "track": "고학년", "reason": "인간관계의 복잡성, 신체적 불편함에 대한 내면의 고찰 등 다소 추상적이고 심리적인 내용이 있어 초등 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_18.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 심각한 부상 묘사와 시신(죽음)의 부패에 대한 상세한 언급 및 깊이 있는 고찰이 포함되어 초등학생에게 부적절합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_19.txt"}
+{"appropriate": true, "track": "고학년", "reason": "문장이 추상적이거나 어휘가 초등 저학년에게는 어려울 수 있으나, 내용 자체는 유해하지 않습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_2.txt"}
+{"appropriate": false, "track": null, "reason": "테러리스트 집단의 처형 영상 시청에 대한 언급은 폭력 및 죽음 관련 내용으로 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_20.txt"}
+{"appropriate": false, "track": null, "reason": "성적인 내용과 약물(liquor)에 대한 직접적인 언급, 그리고 성적인 암시가 있는 비유가 포함되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_21.txt"}
+{"appropriate": false, "track": null, "reason": "스쿠터 사고로 인해 주인공이 심한 부상을 입고 휠체어와 치료가 필요한 상황이 묘사되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_22.txt"}
+{"appropriate": false, "track": null, "reason": "성적 관계를 암시하는 표현('sleep together')이 포함되어 있어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_23.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력, 욕설 등 부적절한 내용은 없으나 영어 지문이고, 문장 구조와 내용의 추상성이 초등 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_24.txt"}
+{"appropriate": false, "track": null, "reason": "전쟁 중 잠수함 공격으로 인한 익사 등 죽음에 대한 상세한 묘사가 포함되어 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_25.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 술과 담배를 섭취하고 이에 대해 언급하는 내용이 포함되어 있어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_26.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에는 공장 관리자가 톱날에 여러 손가락을 잃었다는 상세한 묘사가 포함되어 있어 초등학생에게 부적절할 수 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_27.txt"}
+{"appropriate": false, "track": null, "reason": "해당 발췌문은 'Holy crap!'과 같은 경미한 욕설을 포함하고 있으며, 자본주의와 사회주의, 한국전쟁 중의 빨치산 활동, 투옥 등 초등학생이 이해하기 어렵고 정치적으로 민감하거나 논쟁적인 소재를 다루고 있어 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_28.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 수많은 실험 동물이 죽임을 당했다는 내용과 함께 죽음, 내세, 희생양 등의 개념이 직접적으로 언급되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_29.txt"}
+{"appropriate": false, "track": null, "reason": "경찰 단속, 불법 영상 배포, 불법 사금융 사기 등 초등학생에게 부적절한 범죄 관련 내용이 포함되어 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_3.txt"}
+{"appropriate": false, "track": null, "reason": "이 발췌문은 세상의 종말, 예언, 초자연적 현상, 역사적 재난, 그리고 언어의 철학적 해석과 같은 복잡하고 논쟁적이며 때로는 불안하게 느껴질 수 있는 주제들을 광범위하게 다루고 있어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_30.txt"}
+{"appropriate": true, "track": "고학년", "reason": "사후 세계, 삶의 무의미함 등 철학적이고 추상적인 내용을 다루고 있으며, 어휘와 문장 구조가 초등학생에게 다소 어려워 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_31.txt"}
+{"appropriate": false, "track": null, "reason": "학교폭력 조사를 다루는 내용으로, 초등학생에게 부적절한 주제입니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_32.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 '의식용 칼날 위로 발을 내딛었다'는 표현이 있어 자해 또는 폭력적인 행위를 암시하고, 여성의 역사적 억압과 직업이 형벌로 여겨지는 등 초등학생이 이해하기에 너무 무겁고 복잡한 주제를 다룹니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_33.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에 수갑, 과도한 물리력 사용, 뺨과 팔의 붉은 멍 등 폭력적인 내용이 묘사되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_34.txt"}
+{"appropriate": true, "track": "고학년", "reason": "문장이 다소 복잡하고 어휘가 어려우며, 문화적 정체성에 대한 추상적인 내용을 다루고 있어 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_35.txt"}
+{"appropriate": false, "track": null, "reason": "기혼자와의 스캔들 및 내연녀에 대한 내용이 언급되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_36.txt"}
+{"appropriate": false, "track": null, "reason": "동물 도축 및 요리에 대한 상세하고 다소 충격적인 묘사('피 묻은 다리', '보신탕을 만들기 위해 끓이는 개고기')가 포함되어 있어 초등학생에게 부적절합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_37.txt"}
+{"appropriate": false, "track": null, "reason": "결투로 인한 죽음과 등장인물의 음주, 그리고 초등학생이 이해하기 어려운 추상적이고 문학적인 내용이 포함되어 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_38.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력적이거나 부적절한 내용은 없으나, 문학적이고 다소 추상적인 표현과 성찰적인 내용으로 인해 초등 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_39.txt"}
+{"appropriate": true, "track": "고학년", "reason": "마법 같은 뻐꾸기시계와 주인공의 호기심을 다룬 상상력 풍부한 이야기로 초등학생에게 적합하나, 일부 어휘와 문장 구조가 고학년에 더 알맞습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_4.txt"}
+{"appropriate": false, "track": null, "reason": "고인에 대한 깊은 슬픔과 매장지가 훼손될 수 있다는 암시 등 정서적으로 무겁고 복잡한 내용이 초등학생이 읽기에는 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_40.txt"}
+{"appropriate": false, "track": null, "reason": "남편의 중혼 및 배신이라는 성인 관계의 복잡하고 윤리적으로 민감한 주제를 다루고 있어 초등학생에게 부적절합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_41.txt"}
+{"appropriate": false, "track": null, "reason": "신체적 폭력(때리기, 주먹으로 치기), 자해(굶기), 그리고 결혼 여부나 처녀성 등 초등학생에게 부적절한 민감한 내용이 포함되어 있어 읽히기 어렵습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_42.txt"}
+{"appropriate": false, "track": null, "reason": "머리가 두 동강 나고 칼로 사과를 자르는 듯한 고통을 묘사하는 등 폭력적이고 기괴한 표현과 등장인물(얼굴)이 죽는다는 언급이 초등학생에게 부적절합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_43.txt"}
+{"appropriate": true, "track": "고학년", "reason": "시적이고 내성적인 문체로 시각 장애, 외로움, 상실감 등의 주제를 다루고 있어 저학년 학생들에게는 다소 추상적이고 이해하기 어려울 수 있으나, 고학년 학생들에게는 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_44.txt"}
+{"appropriate": true, "track": "고학년", "reason": "자연과 동물에 대한 내용으로 적합하지만, 서술 방식과 문장이 다소 복잡하여 고학년에게 더 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_45.txt"}
+{"appropriate": true, "track": "고학년", "reason": "발췌본은 삶의 멜랑콜리한 분위기, 이웃과의 미묘한 관계, 그리고 불가사의한 사건(물고기 실종)을 다루고 있습니다. 문장이 다소 추상적이고 내성적이며, 물고기가 서로를 먹었다는 언급이 다소 섬뜩할 수 있으나, 직접적인 폭력이나 죽음의 상세 묘사는 없어 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_46.txt"}
+{"appropriate": true, "track": "고학년", "reason": "내용상 부적절한 요소는 없으나, 문장의 길이와 일부 비유적 표현, 그리고 직장 문화나 도시 경관에 대한 다소 추상적인 묘사가 초등 고학년에게 더 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_47.txt"}
+{"appropriate": true, "track": "고학년", "reason": "어머니의 죽음과 5.18 민주화운동 같은 역사적 사건이 언급되지만, 묘사가 구체적이지 않고 논쟁적인 내용 없이 사실 전달 위주입니다. 다만, 문장이 다소 복잡하고 추상적인 개념(언어의 객관성)이 포함되어 있어 고학년에게 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_48.txt"}
+{"appropriate": true, "track": "고학년", "reason": "폭력, 성적 내용 등 부적합한 요소는 없으나, 문장이 복잡하고 등장인물의 미묘한 관계 묘사가 초등 저학년에게는 다소 어려울 수 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_49.txt"}
+{"appropriate": true, "track": "고학년", "reason": "성인 여성의 구직 및 회사 생활에 대한 내용으로, 내용상 부적절한 요소는 없으나 일부 어휘와 배경 지식이 초등 고학년에게 더 적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_5.txt"}
+{"appropriate": false, "track": null, "reason": "임신 중 '브라질리언 왁싱' 및 '음모'에 대한 직접적인 언급 등 초등학생에게 부적절한 성적 내용이 포함되어 있습니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_6.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본에는 코가 부러질 정도의 신체적 폭력 묘사와 특정 민족에 대한 심한 욕설(dirty words)이 포함되어 초등학생에게 부적합합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_7.txt"}
+{"appropriate": true, "track": "고학년", "reason": "과거 연인 관계와 그로 인한 복잡한 친구 관계, 내면의 심리 묘사 등은 초등 고학년에게 적합한 주제입니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_8.txt"}
+{"appropriate": false, "track": null, "reason": "발췌본은 장례식과 죽음, 성인 인물의 복잡한 감정(슬픔, 무기력, 관계 문제 등)을 다루고 있어 초등학생이 이해하거나 공감하기에 부적절합니다.", "uri": "gs://klwave-raw-texts-1/excerpts/klwave_9.txt"}
